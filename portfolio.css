@@ -34,7 +34,7 @@ nav {
     position: fixed;
 }
  nav h1 {
-    font-family: cursive;
+    font-family: sans-serif;
     font-size: 30px;
     flex-direction: column;
     display: block;
@@ -57,7 +57,7 @@ nav a {
     justify-content: flex-end;
     text-decoration: none;
     color: black;
-    font-family: cursive;
+    font-family: sans-serif;
 }
  nav a span img {
     width: 20px;
@@ -2226,3 +2226,4 @@ display: block;
     font-size: 17px;
 }
 }
+
